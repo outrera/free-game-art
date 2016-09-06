@@ -1,9 +1,41 @@
 # Free Game Art
 A collection of graphics with Public Domain,CC-BY-SA,GPL,BSD,MIT licenses - anything allowed to be used in your free or commercial game, as long as you credit the original producers.
 
-Various large-sized non-functional artworks were moved to https://github.com/saniv/free-game-art-illustrations
+## This repository is now split into several thematical repositories.
 
-In case you also need free to use game music, there is a separate repository to check out: https://github.com/saniv/free-game-music
+Game music:
+https://github.com/saniv/free-game-music
+
+Sound effects:
+https://github.com/saniv/free-game-sfx
+
+Raw 3d assets (models and textures):
+https://github.com/saniv/free-game-art-3d
+
+Large-sized non-functional artworks:
+https://github.com/saniv/free-game-art-illustrations
+
+Visual effects (explosions, particles, clouds, nature, magical, etc..):
+https://github.com/saniv/free-game-art-effects
+
+User interface assets (icons, fonts, buttons and other widgets):
+https://github.com/saniv/free-game-art-ui
+
+Isometric projection graphics, suitable for RTS, TBS and RPG games:
+https://github.com/saniv/free-game-art-isometric
+
+Top-down projection graphics, suitable for strategy, arcade and jRPG games:
+https://github.com/saniv/free-game-art-topdown
+
+Side-view projection graphics, suitable for platformers and shmups:
+https://github.com/saniv/free-game-art-sideview
+
+Front-view projection graphics, suitable for first person shooters and dungeon crawlers:
+https://github.com/saniv/free-game-art-frontview
+
+Various unclassified assets:
+https://github.com/saniv/free-game-art-unsorted
+
 
 ## What about OpenGameArt.org?
 Unfortunately OpenGameArt.org curators believe that plundering open source repositories for art is unethical and damaging to site's reputation, even if license allows that. (Full story: http://opengameart.org/forumtopic/censored-broforce-sprites-and-game-ready)
