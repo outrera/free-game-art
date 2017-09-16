@@ -31,7 +31,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 - Egoboo: Most of Egoboo's sound samples are stolen I.e. from Baldur's Gate (https://raw.githubusercontent.com/egoboo/egoboo-assets/master/basicdat/stealth.ogg), from the soundtrack to Indiana Jones movie (https://github.com/egoboo/egoboo-assets/blob/master/modules/archaeologist.mod/objects/bouldertrap.obj/sound2.wav). A lot of others Egoboo sounds appear to be coming from Sound Ideas.
 
-S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of movies (i.e. Alien, Blade, etc..) and games like Id Software's Doom 
+- S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of movies (i.e. Alien, Blade, etc..) and games like Id Software's Doom 
 
 - Runesword 2: later releases infringe on graphics from Age of empires and Majesty
 
@@ -39,4 +39,4 @@ S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of m
 
 - TripleA (https://sourceforge.net/projects/triplea/): graphics stolen from other games (i.e. cursor_gauntlet.gif comes from World of Warcraft) Sounds apprantly come from non-free sources and music is stolen from various movies (i.e. game_start_01_start_of_lotr_company_of_the_ring.wav comes from Lord of the Rings by Ralph Bakshi)
 
-- LGenedal-data (https://gitlab.com/lgeneral-data/lgeneral-data): explosion.wav is based of http://www.freesound.org/people/ERH/sounds/33181/ and http://www.freesound.org/people/HerbertBoland/sounds/33637/ which are non-free.
+- LGeneral-data (https://gitlab.com/lgeneral-data/lgeneral-data): explosion.wav is based of http://www.freesound.org/people/ERH/sounds/33181/ and http://www.freesound.org/people/HerbertBoland/sounds/33637/ which are non-free.
