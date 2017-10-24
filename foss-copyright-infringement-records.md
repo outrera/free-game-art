@@ -4,6 +4,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art re-licensed from non-free licenses.
+    https://opengameart.org/content/amthomorphic-wishing-well (stolen clipart https://www.123rf.com/photo_11051019_isolated-illustration-of-an-ancient-and-magical-wishing-well.html)
     http://opengameart.org/content/game-art-from-ant-grab (no idea where stone texture come from but, salt flats texture was stolen from http://www.gettyimages.com/detail/photo/mud-cracks-on-salt-pan-northern-cape-high-res-stock-photography/475156577)
     http://opengameart.org/content/fbi-chic (Dana Scully character from X-Files)
     http://opengameart.org/content/balloons-and-balls without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain. Then we find that allvectors.com steals vectors from commercial sources: http://www.microstockgroup.com/image-sleuth/allvectors-com-free-(stolen)-vectors-for-download!/ so this crown vector is not free at all.
