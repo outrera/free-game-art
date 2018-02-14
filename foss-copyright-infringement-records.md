@@ -13,7 +13,7 @@ Open source developers rarely check the source of the assets. For example, sever
     http://opengameart.org/content/balloons-and-balls without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain. Then we find that allvectors.com steals vectors from commercial sources: http://www.microstockgroup.com/image-sleuth/allvectors-com-free-(stolen)-vectors-for-download!/ so this crown vector is not free at all.
 
 
-- Advanced Strategic Command steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects builings, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
+- Advanced Strategic Command (http://www.asc-hq.org) steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects builings, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
 
 - OpenLieroX (https://github.com/albertz/openlierox/tree/0.59/share/gamedir): communism allows them to "borrow" assets from Naruto, Doom and WH40k, then re-release these assets under GPL
 
