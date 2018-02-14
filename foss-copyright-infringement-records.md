@@ -4,6 +4,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art re-licensed from non-free licenses.
+    https://opengameart.org/content/nightstrike-png-assets (Spark.wav is actually tesla1.aud, stolen from Command & Conquer Red Alert)
     https://opengameart.org/content/amthomorphic-wishing-well (stolen clipart https://www.123rf.com/photo_11051019_isolated-illustration-of-an-ancient-and-magical-wishing-well.html)
     https://opengameart.org/content/cute-cat-spritesheet (stolen from https://www.123rf.com/photo_13708512_illustration-of-cute-cat-wearing-a-red-collar-with-gold-tag.html)
     https://opengameart.org/content/cute-dog-spritesheet (stolen from https://www.123rf.com/photo_8661585_cute-puppy.html or https://www.dreamstime.com/stock-images-cute-dog-image17899304)
