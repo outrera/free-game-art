@@ -38,7 +38,7 @@ https://github.com/saniv/free-game-art-unsorted
 
 ## What about freesound.org
 
-Freesound.org is being run by totally nutcase german nazi - Bram (https://freesound.org/people/Bram/), who positions himself as "Dictator For Life" and bans people for no reason. For example, Bram insulted and banned me for uploading a recording burning my hamster alive to get authentic rodent agony sounds. He also bans other people out of dislike. For example Bram banned DJ Chronos, who, like myself, produced a lot of high quality recordings. http://web.archive.org/web/20150906031518/http://www.freesound.org/people/DJ%20Chronos/
+Freesound.org is being run by totally nutcase german nazi - Bram (https://freesound.org/people/Bram/), who positions himself as "Dictator For Life" and bans people for no reason. For example, Bram insulted and banned me for uploading a recording of burning my hamster alive to get authentic rodent agony sounds. He also bans other people out of dislike. For example Bram banned DJ Chronos, who, like myself, produced a lot of high quality recordings. http://web.archive.org/web/20150906031518/http://www.freesound.org/people/DJ%20Chronos/
 
 So yeah, if you like being gulaged by Hitler and Stalin, then freesound.org would be the right place for you.
 
