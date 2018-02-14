@@ -18,10 +18,12 @@ Open source developers rarely check the source of the assets. For example, sever
     https://opengameart.org/content/amthomorphic-wishing-well (stolen clipart https://www.123rf.com/photo_11051019_isolated-illustration-of-an-ancient-and-magical-wishing-well.html)
     https://opengameart.org/content/cute-cat-spritesheet (stolen from https://www.123rf.com/photo_13708512_illustration-of-cute-cat-wearing-a-red-collar-with-gold-tag.html)
     https://opengameart.org/content/cute-dog-spritesheet (stolen from https://www.123rf.com/photo_8661585_cute-puppy.html or https://www.dreamstime.com/stock-images-cute-dog-image17899304)
-
     http://opengameart.org/content/game-art-from-ant-grab (no idea where stone texture come from but, salt flats texture was stolen from http://www.gettyimages.com/detail/photo/mud-cracks-on-salt-pan-northern-cape-high-res-stock-photography/475156577)
     http://opengameart.org/content/fbi-chic (Dana Scully character from X-Files)
     http://opengameart.org/content/balloons-and-balls without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain. Then we find that allvectors.com steals vectors from commercial sources: http://www.microstockgroup.com/image-sleuth/allvectors-com-free-(stolen)-vectors-for-download!/ so this crown vector is not free at all.
+
+Similar story with freesound.org. For example:
+     https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
 
 
 - Advanced Strategic Command (http://www.asc-hq.org) steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects damaged building, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
