@@ -29,6 +29,10 @@ Open source developers rarely check the source of the assets. For example, sever
      https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
 
 
+- Glest/MegaGlest steals sound from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
+  WARTPISD.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_die4.wav
+  Pig.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_select4.wav
+
 - Warzone 2010 steals sounds from Sound Ideas. For example https://github.com/Warzone2100/warzone2100/blob/master/data/base/audio/sfx/weapons/build2.ogg is a blatant copy of ELECTRICITY, SPARK 40 from Sound Ideas 6000 series: http://www.audiomicro.com/high-voltage-spark-electricity-royalty-free-stock-music-944993
 
 - Advanced Strategic Command (http://www.asc-hq.org) steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects damaged building, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
