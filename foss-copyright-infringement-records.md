@@ -29,7 +29,7 @@ Open source developers rarely check the source of the assets. For example, sever
      https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
 
 
-- Glest/MegaGlest steals sound from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
+- Glest/MegaGlest steals sounds from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
   WARTPISD.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_die4.wav
   Pig.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_select4.wav
 
