@@ -37,6 +37,8 @@ Open source developers rarely check the source of the assets. For example, sever
 
 - Advanced Strategic Command (http://www.asc-hq.org) steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects damaged building, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
 
+- DungeonHack (https://sourceforge.net/projects/dungeonhack/files/0.10/) says that its "assets are licensed under the terms of the GNU General Public License version 3", yet it includes numerous non-free sfx files, such as grassland.ogg and grassland3.ogg, which have tags say "Sounddogs.com Preview", implying that they were stolen from site's preview player, without paying any money for them, and even if money were paid, such royalty free assets cannot be released under GPLv3 license. Other assets are of similarly dubious origins, as say MonsterRoar.wav is a very recognizable sfx, that comes from Sound Ideas Series 6000 General - CD3 - 37 - bobcat growl. animal.
+
 - OpenLieroX (https://github.com/albertz/openlierox/tree/0.59/share/gamedir): communism allows them to "borrow" assets from Naruto, Doom and WH40k, then re-release these assets under GPL
 
 - Gnome steals assets from Apple OSX, Microsoft Windows, Super Mario and Metal Gear Solid:
