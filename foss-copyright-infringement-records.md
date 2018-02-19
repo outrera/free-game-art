@@ -27,6 +27,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 - Similar story with freesound.org. For example:
      https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
+     https://freesound.org/people/linnommt/sounds/376608/ - easily recognizable camel sound (also used in Doom for imps and Hexen for ettins), which actually comes from Sound Ideas Series 6000 General - CD3 - 38 - "camel low calls. animal". Works based on Sound Ideas assets cannot be released under CC-BY 3.0 license.
 
 
 - Glest/MegaGlest steals sounds from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
