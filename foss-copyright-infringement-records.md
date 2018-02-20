@@ -23,7 +23,7 @@ Open source developers rarely check the source of the assets. For example, sever
   - http://opengameart.org/content/fbi-chic (Dana Scully character from X-Files)
   - http://opengameart.org/content/balloons-and-balls without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain. Then we find that allvectors.com steals vectors from commercial sources: http://www.microstockgroup.com/image-sleuth/allvectors-com-free-(stolen)-vectors-for-download!/ so this crown vector is not free at all.
 
-- Other content at OpenGameArt.org has potential license issues. For example, CC-BY sfx foom_0.wav ( https://opengameart.org/content/spell-4-fire ) was later re-uploaded by another user, who relicensed under public domain, as part of larger collection ( https://opengameart.org/content/huge-collection-of-retro-sound-effects-from-my-various-projects )
+- Other content at OpenGameArt.org has potential license issues. For example, CC-BY sfx foom_0.wav ( https://opengameart.org/content/spell-4-fire ) was later re-uploaded by another user, who relicensed under public domain, as part of larger collection of dubious origin ( https://opengameart.org/content/huge-collection-of-retro-sound-effects-from-my-various-projects )
 
 
 - Similar story with freesound.org. For example:
