@@ -27,13 +27,13 @@ Open source developers rarely check the source of the assets. For example, sever
 
 
 - Similar story with freesound.org. For example:
-     https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
-     https://freesound.org/people/linnommt/sounds/376608/ - easily recognizable camel sound (also used in Hexen for Ettins and Centaurs), which actually comes from Sound Ideas Series 6000 General - CD3 - 38 - "camel low calls. animal". Works based on Sound Ideas assets cannot be released under CC-BY 3.0 license.
+  - https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
+   - https://freesound.org/people/linnommt/sounds/376608/ - easily recognizable camel sound (also used in Hexen for Ettins and Centaurs), which actually comes from Sound Ideas Series 6000 General - CD3 - 38 - "camel low calls. animal". Works based on Sound Ideas assets cannot be released under CC-BY 3.0 license.
 
 
 - Glest/MegaGlest steals sounds from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
-  WARTPISD.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_die4.wav
-  Pig.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_select4.wav
+ - WARTPISD.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_die4.wav
+ - Pig.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_select4.wav
 
 - Warzone 2010 steals sounds from Sound Ideas. For example https://github.com/Warzone2100/warzone2100/blob/master/data/base/audio/sfx/weapons/build2.ogg is a blatant copy of ELECTRICITY, SPARK 40 from Sound Ideas 6000 series: http://www.audiomicro.com/high-voltage-spark-electricity-royalty-free-stock-music-944993
 
@@ -46,11 +46,11 @@ Open source developers rarely check the source of the assets. For example, sever
 - OpenLieroX (https://github.com/albertz/openlierox/tree/0.59/share/gamedir): communism allows them to "borrow" assets from Naruto, Doom and WH40k, then re-release these assets under GPL
 
 - Gnome steals assets from Apple OSX, Microsoft Windows, Super Mario and Metal Gear Solid:
-  http://gnome-look.org/content/show.php/Mavericks?content=174324
-  http://gnome-look.org/content/show.php/Windows+7+sound+scheme+?content=158018
-  http://gnome-look.org/content/show.php/Windows+8+sounds?content=164828
-  http://gnome-look.org/content/show.php/Super+Mario+bros?content=141676
-  http://gnome-look.org/content/show.php/Metal_Gear_Solid_v.1?content=156964
+  - http://gnome-look.org/content/show.php/Mavericks?content=174324
+  - http://gnome-look.org/content/show.php/Windows+7+sound+scheme+?content=158018
+  - http://gnome-look.org/content/show.php/Windows+8+sounds?content=164828
+  - http://gnome-look.org/content/show.php/Super+Mario+bros?content=141676
+  - http://gnome-look.org/content/show.php/Metal_Gear_Solid_v.1?content=156964
 
 - Wesnoth: wanderer.ogg is a variation on Betrayal at Krondor main theme
 
