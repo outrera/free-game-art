@@ -14,6 +14,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art re-licensed from non-free licenses.
+    https://opengameart.org/content/sound-effects-from-monster-rpg-2 - steals sound from Sound Ideas 6000 Series; for example cartoon_fall.ogg can be found on CD10, track 83, "comedy. accent slide whistle down". Other user, undesired, warned them, but they keep stealing. Same goes for Monster RPG2, for which these sounds were taken.
     https://opengameart.org/content/nightstrike-png-assets (Spark.wav actually comes from Sound Ideas 6000 library - http://soundeffects.wikia.com/wiki/Sound_Ideas,_ELECTRICITY,_SPARK_-_HIGH_VOLTAGE_SPARK,_ELECTRICAL_12 - i.e. it cannot be licensed public domain)
     https://opengameart.org/content/amthomorphic-wishing-well (stolen clipart https://www.123rf.com/photo_11051019_isolated-illustration-of-an-ancient-and-magical-wishing-well.html)
     https://opengameart.org/content/cute-cat-spritesheet (stolen from https://www.123rf.com/photo_13708512_illustration-of-cute-cat-wearing-a-red-collar-with-gold-tag.html)
