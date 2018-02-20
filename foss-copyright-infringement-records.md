@@ -58,7 +58,7 @@ Open source developers rarely check the source of the assets. For example, sever
 
 - Fish Fillets: soundtrack from X-Files (TV series). Graphics and sounds from Warcraft 2.
 
-- Stendhal: steals sounds from warcraft 2 (arrow-1.ogg) and half of its graphics comes from enterbrain's RPGMaker (for example, sandy_rocks.png, oak_tree.png, maple_tree.png, locust_tree.png, pine_tree.png, snow_on_pine.png, ship.png, object/ship.png, tan_tent.png). Also pacman.png. Most of the sound files were stolen from commercial sound archives. For example, horse-1 sound comes from Sound Ideas 6000, CD3, track 65 "horse interior - whinny. animal".
+- Stendhal: steals sounds from warcraft 2 (arrow-1.ogg) and half of its graphics comes from enterbrain's RPGMaker (for example, sandy_rocks.png, oak_tree.png, maple_tree.png, locust_tree.png, pine_tree.png, snow_on_pine.png, ship.png, object/ship.png, tan_tent.png). Also pacman.png. Most of the sound files were stolen from commercial sound archives. For example, horse-1 sound comes from Sound Ideas 6000, CD3, track 65 "horse interior - whinny. animal", yet LICENSE-audio says that it is public domain.
 
 - Crossfire is known to infringe on sprites from Starcraft (archon sprite) and Dark Legions (demon, greater demon, likely found at http://www.galaraf.net/ANIGIFS/demons/index.htm) and Final Fantasy VI (giant worm - http://crossfire.real-time.com/spoiler/monsters/monsters_e_to_h.html). Bear comes from (http://www.galaraf.net/ANIGIFS/bears/index.htm) and rat (http://www.animatedimages.org/img-animated-rat-image-0011-111229.htm) come from some non-free sources too.
 
