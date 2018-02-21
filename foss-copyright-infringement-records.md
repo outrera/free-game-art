@@ -1,4 +1,4 @@
-Open source community, being socialist-minded, is known to react dismissively at cases of copyright infringement. FOSS people were going as far as calling me "asshole", "mentally derranged" and "troll" for bringing up these issues. I even got banned from reddit.com/r/opensourcegames and opengameart.org, for bringing up the subject of OGA distributing stolen assets.
+Open source community, being socialist-minded, is known to react dismissively at cases of copyright infringement. FOSS people were going as far as calling me "asshole", "mentally derranged" and "troll" for bringing up these issues. I even got banned from reddit.com/r/opensourcegames and opengameart.org, for bringing up the subject of OGA distributing stolen assets and linking to this text.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
 
@@ -45,6 +45,8 @@ Of course not every flashkit.com sound is stolen, some are obviously produce pro
   - https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
   - https://freesound.org/people/linnommt/sounds/376608/ - easily recognizable camel sound (also used in Hexen for Ettins and Centaurs), which actually comes from Sound Ideas Series 6000 General - CD3 - 38 - "camel low calls. animal". Works based on Sound Ideas assets cannot be released under CC-BY 3.0 license.
 
+- Battle for Wesnoth (www.wesnoth.org): many sound files came from dubious sources, which isn't even mentioned at all, these files are just relicensed under GPL2. For example, horse-canter.wav came from www.freesoundfiles.tintagel.net (https://web.archive.org/web/20070122235856/http://www.freesoundfiles.tintagel.net:80/Audio/free-wave-files-animals/horse_canter.wav ). That site outright lied, saying "to the best of our knowledge, all wave, midi, and audio files presented here are in the public domain and are available for use without restriction", because it shamelessly distributed a lot of copyright infringing audio files, such as Godzilla and Star Trek samples (https://web.archive.org/web/20081221214508/http://www.freesoundfiles.tintagel.net:80/Audio/free-wave-files-movies/ ). Also, wanderer.ogg 3:00 into the song includes a shameless variation on Betrayal at Krondor main theme (https://www.youtube.com/watch?v=ynxBL829enE ). Wesnoth case requires further research and help of experienced audio engineers to uncover the real sources of its sounds.
+
 - Widelands (https://wl.widelands.org/) steals sounds from Sound Ideas 6000. For example, horse_00.ogg can be found on CD3, 65 - "horse interior - whinny. animal", second track there.
 
 - Glest/MegaGlest steals sounds from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
@@ -71,8 +73,6 @@ Of course not every flashkit.com sound is stolen, some are obviously produce pro
   - http://gnome-look.org/content/show.php/Windows+8+sounds?content=164828
   - http://gnome-look.org/content/show.php/Super+Mario+bros?content=141676
   - http://gnome-look.org/content/show.php/Metal_Gear_Solid_v.1?content=156964
-
-- Wesnoth: wanderer.ogg is a variation on Betrayal at Krondor main theme
 
 - Pingus: data/images/special/pacman -- graphics from Namco's game
 
