@@ -31,6 +31,7 @@ Open source developers rarely check the source of the assets. For example, sever
   - https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
   - https://freesound.org/people/linnommt/sounds/376608/ - easily recognizable camel sound (also used in Hexen for Ettins and Centaurs), which actually comes from Sound Ideas Series 6000 General - CD3 - 38 - "camel low calls. animal". Works based on Sound Ideas assets cannot be released under CC-BY 3.0 license.
 
+- Widelands (https://wl.widelands.org/) steals sounds from Sound Ideas 6000. For example, horse_00.ogg can be found on CD3, 65 - "horse interior - whinny. animal", second track there.
 
 - Glest/MegaGlest steals sounds from Warcraft 2. For example, see https://www.sounds-resource.com/pc_computer/warcraft2/
   - WARTPISD.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_die4.wav
