@@ -19,7 +19,7 @@ Here are a few quotes of typical open source advocates, regarding art theft:
     medical care and sympathy And yes, he is a MOM`s TROLL kek
           -- https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
 
-And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community.
+And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community. Whistleblowers are welcome! If you know something ugly regarding any free software project, be it asset theft or just rude behavior, please inform me anonymously at snv985@gmail.com and I promise to make everyone aware of their misdeeds. Fiat justitia ruat caelum!
 
 Open source developers rarely check the source of the assets. For example:
 - Several open source games (like ZeroK-RTS) appear to be using sounds from http://free-loops.com/pd-loops-1.html which is  full of illegal content, like the sounds taken from Sound Ideas (http://free-loops.com/2975-9mm-shotgun.html), Godzilla movies (http://free-loops.com/3006-godzilla.html) or Warcraft 2 (http://free-loops.com/3010-horse.html http://free-loops.com/3009-hello.html).
