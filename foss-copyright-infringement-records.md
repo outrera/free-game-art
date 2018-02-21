@@ -1,4 +1,3 @@
-Open source community, being socialist-minded, is known to react dismissively at cases of copyright infringement. FOSS people were going as far as calling me "asshole", "mentally derranged" and "troll" for bringing up these issues. I even got banned from reddit.com/r/opensourcegames and opengameart.org, for bringing up the subject of OGA distributing stolen assets and linking to this text.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
 
