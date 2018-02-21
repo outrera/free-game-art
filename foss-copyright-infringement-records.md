@@ -6,12 +6,14 @@ Here is a quote of typical open source advocate, regarding art theft:
     and probably can't help how stupid you are... Also, it's not theft, the creators
     of the assets you're talking about still have the assets. Nothing was removed
     from their ownership, just copied.
-                    -- gweny404 (https://www.reddit.com/user/gweny404)
+          -- gweny404 (https://www.reddit.com/user/gweny404)
+
 
     I've often seen amateur/indie game that use ressources coming from proprietary games,
     especially SFX (for instance, i've seen the jump sound of Sonic or Mario in many amateur games). 
           -- Linux apologist defending the stealing of proprietary assets
              https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
+
 
     Nikita Sadkov is a mental disorder person and he is in dire need of qualified
     medical care and sympathy And yes, he is a MOM`s TROLL kek
