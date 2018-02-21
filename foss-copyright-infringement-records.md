@@ -8,6 +8,15 @@ Here is a quote of typical open source advocate, regarding art theft:
     from their ownership, just copied.
                     -- gweny404 (https://www.reddit.com/user/gweny404)
 
+    I've often seen amateur/indie game that use ressources coming from proprietary games,
+    especially SFX (for instance, i've seen the jump sound of Sonic or Mario in many amateur games). 
+          -- Linux apologist defending the stealing of proprietary assets
+             https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
+
+    Nikita Sadkov is a mental disorder person and he is in dire need of qualified
+    medical care and sympathy And yes, he is a MOM`s TROLL kek
+          -- https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
+
 And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community.
 
 Open source developers rarely check the source of the assets. For example, several open source games (like ZeroK-RTS) appear to be using sounds from http://free-loops.com/pd-loops-1.html which is  full of illegal content, like the sounds taken from Sound Ideas (http://free-loops.com/2975-9mm-shotgun.html), Godzilla movies (http://free-loops.com/3006-godzilla.html) or Warcraft 2 (http://free-loops.com/3010-horse.html http://free-loops.com/3009-hello.html).
