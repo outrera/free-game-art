@@ -73,7 +73,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - Scorched 3D (http://www.scorched3d.co.uk) steals from Sound Ideas, for example "apache_1.wav" is actually "helicopter twin huey - exterior - approach. land. idle" from Sound Ideas General Series 6000, CD19. Other sounds are of similarly dubious origin.
 
-- LinCity-NG (https://sourceforge.net/projects/lincity-ng.berlios/ https://github.com/lincity-ng) sounds of dubious origin. For example, I heard that stock pig sound from "OrganicFarm1.wav" in several other games and non-free archives. Needs futher research.
+- LinCity-NG (https://sourceforge.net/projects/lincity-ng.berlios/ https://github.com/lincity-ng) sounds of dubious origin. For example, I heard that stock pig sound from "OrganicFarm1.wav" in several other games and non-free archives. Needs further investigation.
 
 - Warzone 2010 steals sounds from Sound Ideas. For example https://github.com/Warzone2100/warzone2100/blob/master/data/base/audio/sfx/weapons/build2.ogg is a blatant copy of ELECTRICITY, SPARK 40 from Sound Ideas 6000 series: http://www.audiomicro.com/high-voltage-spark-electricity-royalty-free-stock-music-944993
 
