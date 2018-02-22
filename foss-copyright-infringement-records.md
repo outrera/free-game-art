@@ -21,9 +21,12 @@ Here are a few quotes of typical open source advocates, regarding art theft:
     medical care and sympathy And yes, he is a MOM`s TROLL kek
           -- https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
 
+
     what a piece of shit
           -- Linux user falls into personal attacks
              https://www.reddit.com/r/linux/comments/7z9xil/how_linux_community_steals_proprietary_assets/
+
+That is the "warm welcome" a newbie, like me, gets from Linux community, when he decides to contribute by pointing issues with free software projects.
 
 And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community. Whistleblowers are welcome! If you know something ugly regarding any free software project, be it asset theft or just rude behavior, please inform me anonymously at snv985@gmail.com and I promise to make everyone aware of their misdeeds. Fiat justitia ruat caelum!
 
