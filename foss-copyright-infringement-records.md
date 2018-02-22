@@ -5,7 +5,7 @@ Open source community, being socialist-minded, is known to react dismissively at
 Here is a proof Linux people reported me:
 https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
 
-That is how these free speech hating commies censor dissent opinion.
+That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
 
