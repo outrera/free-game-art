@@ -50,7 +50,11 @@ Clint Bellanger has stated that well:
 
 In other words OpenGameArt.org is more like gallery and community for artists, instead of being an archive of free game art, that programmers can easily use.
 
-Contrary to OpenGameArt.org's curators, FreeGameArt collection doesn't care about ethics or morals, only about law. So FreeGameArt will try to collect here free art inappropriate for OGA and the art, which original authors decided to pull out of free use or changed its distribution license to the less free one (the case with Monster Rpg 2).
+Further problem with OpenGameArt.org, is that they unscrupulously host assets stolen from non-free sources, like sound files Sound Ideas 6000, moreover, they've banned me when I pointed them that issue, and even began a coodinated attack against me, telling lies to github support to block my perfectly legal repositories: https://github.com/saniv/free-game-art/blob/master/foss-copyright-infringement-records.md
+
+But wait! That doesn't end here, with OpenGameArt.org hosting stolen content, because at the same time remove perfectly legal and potentially useful content, like say https://opengameart.org/content/you-know-i-had-to  - use heady.gavinl uploaded his photo under a very permissive public domain license, he even put some effort into cutting out background, so photo could be used as say a spectator in a racing game, or as an input for an algorithm that creates 3d character models from photos. Also that guy looks like Elliot Rodger, so we could have used that photo for a mad psycho character, without infringing on actual Elliot Rodger photos. But no! OpenGameArt.org would rather keep https://opengameart.org/content/tanks-1 and https://opengameart.org/content/simple-console-controller
+
+Contrary to OpenGameArt.org's curators, FreeGameArt collection doesn't care about ethics or morals, only about law. FreeGameArt also doesn't total containt crap-level art, which you can produce yourself in a pain.exe in less than a minute. So FreeGameArt will try to collect here free art inappropriate for OGA and the art, which original authors decided to pull out of free use or changed its distribution license to the less free one (the case with Monster Rpg 2).
 
 Broforce sprites, in particular, are pesent too:
 https://github.com/saniv/free-game-art/tree/master/sideview/broforce-sprites
