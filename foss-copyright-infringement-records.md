@@ -2,6 +2,11 @@
 
 Open source community, being socialist-minded, is known to react dismissively at cases of copyright infringement. FOSS people were going as far as calling me "asshole", "mentally derranged" and "troll" for bringing up these issues. I even got banned from reddit.com/r/opensourcegames, opengameart.org and forums.wesnoth.org, for bringing up the subject of OGA distributing stolen assets and linking to this text. Then Linux fanatics began false-flagging my own repositories, lying to github support that I've infringed copyright and ending up fooling github to block https://github.com/saniv/free-game-sfx yet at the same time github refuses to remove actual infringing repositories.
 
+Here is a proof Linux people reported me:
+https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
+
+That is how these free speech hating commies censor dissent opinion.
+
 Here are a few quotes of typical open source advocates, regarding art theft:
 
     Going back and reading your post history tells me you're mentally handicapped
