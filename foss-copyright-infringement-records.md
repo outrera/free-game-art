@@ -15,6 +15,11 @@ Here are a few quotes of typical open source advocates, regarding art theft:
     from their ownership, just copied.
           -- gweny404 (https://www.reddit.com/user/gweny404)
 
+    I for one am not bothered by this. Hopefully they can do minor alterations to
+    those sounds, claim them as their own, and show the middle finger to copyright trolls :)
+          -- Linux developer explains how to hide theft
+             https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/
+
 
     I've often seen amateur/indie game that use ressources coming from proprietary games,
     especially SFX (for instance, i've seen the jump sound of Sonic or Mario in many amateur games). 
