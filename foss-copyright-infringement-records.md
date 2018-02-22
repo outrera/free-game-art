@@ -13,7 +13,7 @@ Here are a few quotes of typical open source advocates, regarding art theft:
 
     I've often seen amateur/indie game that use ressources coming from proprietary games,
     especially SFX (for instance, i've seen the jump sound of Sonic or Mario in many amateur games). 
-          -- Linux apologist defends the stealing of proprietary assets
+          -- Linux apologist defends the stealing of proprietary assets going "others did it too!" way
              https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
 
 
