@@ -1,3 +1,5 @@
+# How Linux Community Steals Proprietary Assets
+
 Open source community, being socialist-minded, is known to react dismissively at cases of copyright infringement. FOSS people were going as far as calling me "asshole", "mentally derranged" and "troll" for bringing up these issues. I even got banned from reddit.com/r/opensourcegames, opengameart.org and forums.wesnoth.org, for bringing up the subject of OGA distributing stolen assets and linking to this text. Then Linux fanatics began false-flagging my own repositories, lying to github support that I've infringed copyright and ending up fooling github to block https://github.com/saniv/free-game-sfx yet at the same time github refuses to remove actual infringing repositories.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
@@ -18,6 +20,10 @@ Here are a few quotes of typical open source advocates, regarding art theft:
     Nikita Sadkov is a mental disorder person and he is in dire need of qualified
     medical care and sympathy And yes, he is a MOM`s TROLL kek
           -- https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
+
+    what a piece of shit
+          -- Linux user falls into personal attacks
+             https://www.reddit.com/r/linux/comments/7z9xil/how_linux_community_steals_proprietary_assets/
 
 And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community. Whistleblowers are welcome! If you know something ugly regarding any free software project, be it asset theft or just rude behavior, please inform me anonymously at snv985@gmail.com and I promise to make everyone aware of their misdeeds. Fiat justitia ruat caelum!
 
