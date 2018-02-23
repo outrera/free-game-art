@@ -30,14 +30,18 @@ Here are a few quotes of typical open source advocates, regarding art theft:
           -- Linux apologist defends the stealing of proprietary assets going "others did it too!" way
              https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
 
-
     Nikita Sadkov is a mental disorder person and he is in dire need of qualified
     medical care and sympathy And yes, he is a MOM`s TROLL kek
           -- https://www.reddit.com/r/opensourcegames/comments/7yu7xu/how_linux_community_steals_proprietary_assets/
 
+    All of these personality elements are present in people who have Borderline Personality Disorder.
+    I have known many people with this personality and if for no other reason I suggest you educate
+    yourself to make sure it's NOT what you have.
+          -- like above, linuxoid plays psychiatrist, instead of addressing the issue of asset theft
+             https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/
 
     what a piece of shit
-          -- Linux user falls into personal attacks
+          -- this Linux user prefers minimalistic personal attacks
              https://www.reddit.com/r/linux/comments/7z9xil/how_linux_community_steals_proprietary_assets/
 
 That is the "warm welcome" a newbie, like me, gets from Linux community, when he decides to contribute by pointing issues with free software projects.
