@@ -4,7 +4,7 @@ Open source community, being socialist-minded, is known to react dismissively at
 
 Here is a proof of Linux people harrasing and reporting me:
 https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
-https://www.reddit.com/r/SFXLibraries/comments/7yvq2c/how_linux_community_steals_proprietary_assets/duuh6cp/
+https://www.reddit.com/r/BSD/comments/805m0w/how_linux_community_steals_proprietary_assets/duuh5uw/
 
 That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
