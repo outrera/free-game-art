@@ -6,6 +6,8 @@ Then Linux fanatics began false-flagging my own repositories, lying to github su
 
 And Battle for Wesnoth communists even failed to ban me properly, giving nonsense reason from my ban "Reason given for ban: User is unable to take part in reasonable, constructive dialogue." I haven't entered into any "dialogue" with them, I've just posted a link to the earlier version of this text in a separate thread at forums.wesnoth.org and closed the browser tab. The next time I returned to check if they had anything to say in their defense, I found myself banned and the thread with the link deleted. Guess these communists actually have something to hide.
 
+MegaGlest developers were really dismissive, replying to me "not worth discussing. go fish elsewhere". WarZone 2010 developers claimed that it is Sound Ideas, who actually stolen their sound and not the other way around, replying "I think your story is lame NikitaSadkov check your facts and bring evidence that the sound you claim was made before 1999".
+
 Here is a proof of Linux people harrasing and reporting me:
 https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
 https://www.reddit.com/r/BSD/comments/805m0w/how_linux_community_steals_proprietary_assets/duuh5uw/
@@ -13,6 +15,13 @@ https://www.reddit.com/r/BSD/comments/805m0w/how_linux_community_steals_propriet
 That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
+
+    if you make such statements, you will have properly document your claims. so far you
+    have only made a claim that a sound file we distribute with Megaglest sounds similar
+    to a sound file you found posted on some website, tagged with the name of an old
+    proprietary game, that's not worth discussing. go fish elsewhere
+          -- dismissive response of MegaGlest developer,
+             at their official IRC channel freenode/#megaglest
 
     Going back and reading your post history tells me you're mentally handicapped
     and probably can't help how stupid you are... Also, it's not theft, the creators
