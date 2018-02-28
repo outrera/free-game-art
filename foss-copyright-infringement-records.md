@@ -9,8 +9,8 @@ And Battle for Wesnoth communists even failed to ban me properly, giving nonsens
 MegaGlest developers were really dismissive, replying to me "not worth discussing. go fish elsewhere". WarZone 2010 developers claimed that it is Sound Ideas, who actually stolen their sound and not the other way around, replying "I think your story is lame NikitaSadkov check your facts and bring evidence that the sound you claim was made before 1999".
 
 Here is a proof of Linux people harrasing and reporting me:
-https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
-https://www.reddit.com/r/BSD/comments/805m0w/how_linux_community_steals_proprietary_assets/duuh5uw/
+- https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
+- https://www.reddit.com/r/BSD/comments/805m0w/how_linux_community_steals_proprietary_assets/duuh5uw/
 
 That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
