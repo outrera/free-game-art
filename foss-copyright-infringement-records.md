@@ -110,9 +110,13 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - Advanced Strategic Command (http://www.asc-hq.org) steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects damaged building, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
 
+- jClassicRPG (https://sourceforge.net/projects/javacrpg/) steals sounds from various non-free source. For example, ai\warthog_1.ogg is stolen directly from Warcraft 2 (WARTHOG sfx), while the license lies that these sounds are public domain. Other sounds were taken from http://web.archive.org/web/20080420080348/http://dustyhawk.250free.com:80/Soundfx1.html which had no information about license at all. I.e. these sounds were not even royalty free.
+
 - Blades of Exile Source Release 3 (http://www.spiderwebsoftware.com/blades/opensource.html) steals sounds from Sound Ideas Series 6000. For example, SND95.WAV is CD18 - 90 - "horror screech", while SND84.WAV is CD3 - 65 - "horse interior - whinny. animal", SND29 is also from Series 6000, CD32 - 19 - "human. groan groan - male", SND13.WAV comes from royalty free archive, https://www.audioblocks.com/stock-audio/pig-squeal.html whose license explicitly states "You cannot sell, license or redistribute our stock files", so Spiderweb Software had no right to relicense this sfx under GPL2. Other sounds are of similarly dubious origin, for example SND33.WAV sound was stolen from Warhammer Shadow of the Horned Rat (SQUEAL01.WAV), while SND7.WAV is DIAMOND.WAV from https://web.archive.org/web/20081221214458/http://www.freesoundfiles.tintagel.net:80/Audio/free-wave-files-chimes/
 
 - Battle City (https://github.com/Deceth/Battle-City and http://battlecity.org) steals sounds from Command & Conquer. For example die.wav is actually nuyell1.aud from C&C Tiberian Dawn, which cannot be relicensed into GPL3.
+
+- Evidyon (https://sourceforge.net/projects/evidyon/) appears to be stealing sounds from some games. For example, "spell - electric blaster.WAV" is obviously based of electric sounds from CD39 of Sound Ideas 6000
 
 - Battle Tanks (https://sourceforge.net/projects/btanks/ https://github.com/whoozle/btanks), "Fun action game, could be found in any linux distro", like other linux games, it claims to be licensed under GPL2 and steals sounds from Sound Ideas 6000. For example, helicopter.ogg is stolen from CD19, track 5, "helicopter bell 206 - int - hovering"
 
@@ -141,7 +145,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - S.C.O.U.R.G.E. (https://sourceforge.net/projects/scourge/): 3d models based of movies (i.e. Alien, Blade, etc..) and games like Id Software's Doom 
 
-- Runesword 2: later releases infringe on graphics from Age of empires and Majesty. The original release still uses sounds from Sound Ideas, such as the afore mentioned bobcat sfx.
+- Runesword 2: later releases infringe on graphics from Age of empires and Majesty. The original release still uses sounds from Sound Ideas, such as the afore mentioned bobcat sfx and bow shot sfx.
 
 - 8 Kingdoms (https://sourceforge.net/projects/kralovstvi/): sounds from Warcraft 2
 
