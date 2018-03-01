@@ -122,6 +122,8 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - DungeonHack (https://sourceforge.net/projects/dungeonhack/files/0.10/) says that its "assets are licensed under the terms of the GNU General Public License version 3", yet it includes numerous non-free sfx files, such as grassland.ogg and grassland3.ogg, which have tags saying "Sounddogs.com Preview", implying that they were stolen from site's preview player, without paying any money for them, and even if money were paid, such royalty free assets cannot be released under GPLv3 license. Other assets are of similarly dubious origins, as say MonsterRoar.wav is a very recognizable sfx, that comes from Sound Ideas Series 6000 General - CD3 - 37 - "bobcat growl. animal".
 
+- Mistlands/ZeroFPS (https://sourceforge.net/projects/zerofps/) steals sounds from various commercial games. For example, "die.wav" is actually yell1.aud from Command & Conquer Tiberium Dawn, although it likely came from some non-free audio library CD.
+
 - OpenLieroX (https://github.com/albertz/openlierox/tree/0.59/share/gamedir): communism allows them to "borrow" assets from Naruto, Doom and WH40k, then re-release these assets under GPL
 
 - Gnome steals assets from Apple OSX, Microsoft Windows, Super Mario and Metal Gear Solid:
