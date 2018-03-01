@@ -23,6 +23,17 @@ Here are a few quotes of typical open source advocates, regarding art theft:
           -- dismissive response of MegaGlest developer,
              at their official IRC channel freenode/#megaglest
 
+    «looking at their FFT output» is a way too vague to be any proof at all.
+    FFT is transformation which operates on some fixed-sized window. How many
+    windows did you analyze? What were equality criteria? How did you estimate
+    error? Did you estimate errors introduced by using psychoacoustic model of
+    ogg/vorbis? How did you include complex phase part of FFT coefficients in
+    your research? How did you combine coefficients timeline of resulting FFT
+    windows? What window function did you use?
+        -- another dismissive response of a linux developer, Vladimir Menshakov,
+           he appears believing that OGG compression gives him right over recording
+           https://github.com/saniv/free-game-art/issues/3#issuecomment-369671301
+
     Going back and reading your post history tells me you're mentally handicapped
     and probably can't help how stupid you are... Also, it's not theft, the creators
     of the assets you're talking about still have the assets. Nothing was removed
