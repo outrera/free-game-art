@@ -94,6 +94,8 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - Freeciv (www.freeciv.org ) most of its sounds came from Warzone 2010, which took sounds from Sound Ideas General 6000 series.
 
+- Battle City (https://github.com/Deceth/Battle-City and http://battlecity.org) steals sounds from Command & Conquer. For example die.wav is actually nuyell1.aud from C&C Tiberian Dawn, which cannot be relicensed into GPL3.
+
 - Seven Kingdoms (https://www.7kfans.com/wiki/index.php/Main_Page ) says that "Seven Kingdoms Ancient Adversaries was open sourced under the GPL in 2009. This includes the game source code, graphics, sounds, but not the music", yet game sounds obviously came from non-free audio libraries, I immediately recognize several samples, that were also used in Magic Carpet and Dungeon Keeper, which took most samples from Sound Ideas 6000.
 
 - Widelands (https://wl.widelands.org/) steals sounds from Sound Ideas 6000. For example, horse_00.ogg can be found on CD3, 65 - "horse interior - whinny. animal", second track there.
