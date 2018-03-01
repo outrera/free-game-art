@@ -94,8 +94,6 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - Freeciv (www.freeciv.org ) most of its sounds came from Warzone 2010, which took sounds from Sound Ideas General 6000 series.
 
-- Battle City (https://github.com/Deceth/Battle-City and http://battlecity.org) steals sounds from Command & Conquer. For example die.wav is actually nuyell1.aud from C&C Tiberian Dawn, which cannot be relicensed into GPL3.
-
 - Seven Kingdoms (https://www.7kfans.com/wiki/index.php/Main_Page ) says that "Seven Kingdoms Ancient Adversaries was open sourced under the GPL in 2009. This includes the game source code, graphics, sounds, but not the music", yet game sounds obviously came from non-free audio libraries, I immediately recognize several samples, that were also used in Magic Carpet and Dungeon Keeper, which took most samples from Sound Ideas 6000.
 
 - Widelands (https://wl.widelands.org/) steals sounds from Sound Ideas 6000. For example, horse_00.ogg can be found on CD3, 65 - "horse interior - whinny. animal", second track there.
@@ -113,6 +111,8 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 - Advanced Strategic Command (http://www.asc-hq.org) steals sounds from Warcraft 2 and Command & Conquer. For example asc-2.6.1.0.tar.bz2\asc-2.6.1.0\data\sounds\burning.ogg is the same sound as the one heard in Warcraft 2 when player selects damaged building, while gateling.ogg and weapon06_s.ogg are the gun8.aud from C&C and gun13.aud from C&C Red Alert.
 
 - Blades of Exile Source Release 3 (http://www.spiderwebsoftware.com/blades/opensource.html) steals sounds from Sound Ideas Series 6000. For example, SND95.WAV is CD18 - 90 - "horror screech", while SND84.WAV is CD3 - 65 - "horse interior - whinny. animal", SND29 is also from Series 6000, CD32 - 19 - "human. groan groan - male", SND13.WAV comes from royalty free archive, https://www.audioblocks.com/stock-audio/pig-squeal.html whose license explicitly states "You cannot sell, license or redistribute our stock files", so Spiderweb Software had no right to relicense this sfx under GPL2. Other sounds are of similarly dubious origin, for example SND33.WAV sound was stolen from Warhammer Shadow of the Horned Rat (SQUEAL01.WAV), while SND7.WAV is DIAMOND.WAV from https://web.archive.org/web/20081221214458/http://www.freesoundfiles.tintagel.net:80/Audio/free-wave-files-chimes/
+
+- Battle City (https://github.com/Deceth/Battle-City and http://battlecity.org) steals sounds from Command & Conquer. For example die.wav is actually nuyell1.aud from C&C Tiberian Dawn, which cannot be relicensed into GPL3.
 
 - Battle Tanks (https://sourceforge.net/projects/btanks/ https://github.com/whoozle/btanks), "Fun action game, could be found in any linux distro", like other linux games, it claims to be licensed under GPL2 and steals sounds from Sound Ideas 6000. For example, helicopter.ogg is stolen from CD19, track 5, "helicopter bell 206 - int - hovering"
 
