@@ -34,6 +34,16 @@ Here are a few quotes of typical open source advocates, regarding art theft:
            he appears believing that OGG compression gives him right over recording
            https://github.com/saniv/free-game-art/issues/3#issuecomment-369671301
 
+    let's be realistic, that 500x100px-ish coloured pixelated representation is
+    not anything accurate at all. This gave you a bit of 40Hz steps with 0.1% of
+    original sound dynamic range for 16-bit data. It's not even near for anything
+    meaninful except broad suggestion, like "we have more energy in this band", OK
+    My point is that you have to have a bit more solid proof to make such
+    accusations.
+        -- Linux developer implies that resizing stolen deviantart photo to 500x100
+           will give you copyright over it
+           https://github.com/saniv/free-game-art/issues/4#issuecomment-369676388
+
     Going back and reading your post history tells me you're mentally handicapped
     and probably can't help how stupid you are... Also, it's not theft, the creators
     of the assets you're talking about still have the assets. Nothing was removed
