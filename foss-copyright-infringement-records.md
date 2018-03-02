@@ -123,7 +123,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
   - WARTPISD.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_die4.wav
   - Pig.wav - https://github.com/MegaGlest/megaglest-data/blob/d1444655692f738552915fba55bf21424cdb8a7f/techs/megapack/commondata/sounds/pig_select4.wav
 
-- ClanBomber (https://sourceforge.net/projects/clanbomber/) "explode.wav" is probably based of "kaboom1.aud" from Command & Conquer Read Alert, with the playback speed changed and some frequencies filtered to hide the fact of theft. On the other hand, it is possible to produce similarly sfx by shaping white noise, so further research is needed.
+- ClanBomber (https://sourceforge.net/projects/clanbomber/) "explode.wav" is probably based of "kaboom1.aud" from Command & Conquer Read Alert, with the playback speed changed and high frequencies filtered to hide the fact of theft. On the other hand, it is possible to produce similarly sfx by shaping white noise, so further research is needed.
 
 - Scorched 3D (http://www.scorched3d.co.uk) steals from Sound Ideas, for example "apache_1.wav" is actually "helicopter twin huey - exterior - approach. land. idle" from Sound Ideas General Series 6000, CD19. Other sounds are of similarly dubious origin.
 
