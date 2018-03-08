@@ -109,7 +109,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 
 - Similar story with freesound.org. For example:
-  - https://freesound.org/people/Nicistarful/sounds/344224/ - that You have stolen it from Sound Ideas Series 6000 General - CD39, track 24, "space. door space ship door 1". Actually, well known Doom and Descent door sounds also come from that CD, track 26.
+  - https://freesound.org/people/Nicistarful/sounds/344224/ - stolen from Sound Ideas Series 6000 General - CD39, track 24, "space. door space ship door 1". Actually, well known Doom and Descent door sounds also come from that CD, track 26.
   - https://freesound.org/people/Dipsyluvspo13/sounds/353441/ - even tags say "Sound Ideas Series 1000 General - Electricity 1011_35_1, All Sound Effects & Music are Copyright Sound Ideas - All Rights Reserved". So it obviously cannot be licensed into public domain.
   - https://freesound.org/people/linnommt/sounds/376608/ - easily recognizable camel sound (also used in Hexen for Ettins and Centaurs), which actually comes from Sound Ideas Series 6000 General - CD3 - 38 - "camel low calls. animal". Works based on Sound Ideas assets cannot be released under CC-BY 3.0 license.
   - https://freesound.org/people/jobro/sounds/87802/ is licensed under CC-BY, but uses sample licensed CC-BY-NC (noncommercial use only), some users appear to be using it in commercial settings, so author could freely go after them, pulling down their videos and games. Yay?!
