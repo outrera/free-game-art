@@ -81,6 +81,18 @@ Here are a few quotes of typical open source advocates, regarding art theft:
 
 That is the "warm welcome" a newbie, like me, gets from Linux community, when he decides to contribute by pointing issues with free software projects.
 
+And Linux community don't limit itself to stealing just sprites and sounds, they also steal source code, by illegally copying snippets of decompiled source code into their GPLv3 licensed projects. Take OpenXcom development forum for example:
+http://openapoc.org/threads/apoc-reversing.124/page-2
+
+> functions of time of day changing
+> __usercall change_pal@<eax>(int scall@<ecx>, signed __int16 interval@<si>
+> goto LABEL_13
+> word_E3594
+> __outbyte
+> HIBYTE(v5) = HIBYTE(word_E3594);
+
+Totally not IDA Pro at all! That is how they develop open source software: pass Photoshop through disassembler, recompile and you get GIMP.
+
 And still I have collected a few facts of illegal appropriation of intellectual property by FOSS community. Whistleblowers are welcome! If you know something ugly regarding any free software project, be it asset theft or just rude behavior, please inform me anonymously at snv985@gmail.com and I promise to make everyone aware of their misdeeds. Fiat justitia ruat caelum!
 
 Open source developers rarely check the source of the assets. For example:
