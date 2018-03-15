@@ -81,7 +81,7 @@ Here are a few quotes of typical open source advocates, regarding art theft:
 
 That is the "warm welcome" a newbie, like me, gets from Linux community, when he decides to contribute by pointing issues with free software projects.
 
-And Linux community don't limit itself to stealing just sprites and sounds, they also steal source code, by illegally copying snippets of decompiled source code into their GPLv3 licensed projects. Take OpenXcom development forum for example:
+And Linux community doesn't limit itself to stealing just sprites and sounds - they also steal source code, by illegally copying snippets from decompiler into their GPLv3 licensed projects. Take OpenXcom development forum for example:
 http://openapoc.org/threads/apoc-reversing.124/page-2
 
 > functions of time of day changing
