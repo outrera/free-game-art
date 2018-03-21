@@ -19,7 +19,8 @@ And due to Linux commies demanding my ban, Github has censored my repositories:
     multiple reports from users concerned about their contents. This was done as an
     alternative to hiding or disabling the content entirely.
     Thanks,
-    GitHub Support 
+    GitHub Support
+     -- https://github.com/saniv/text/blob/master/censorship/github.com-banned-due-to-reports-from-linux-users2.png
 
 That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
