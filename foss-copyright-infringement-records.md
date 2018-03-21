@@ -12,6 +12,15 @@ Here is a proof of Linux people harrasing and reporting me:
 - https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
 - https://www.reddit.com/r/BSD/comments/805m0w/how_linux_community_steals_proprietary_assets/duuh5uw/
 
+And due to Linux commies demanding my ban, Github has censored my repositories:
+
+    Hi Nikita,
+    Thanks for writing in. Your repositories were set to require a login to view following
+    multiple reports from users concerned about their contents. This was done as an
+    alternative to hiding or disabling the content entirely.
+    Thanks,
+    GitHub Support 
+
 That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
