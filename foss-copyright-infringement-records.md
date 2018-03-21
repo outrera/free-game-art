@@ -6,7 +6,7 @@ Then Linux fanatics began false-flagging my own repositories, lying to github su
 
 And Battle for Wesnoth communists even failed to ban me properly, giving nonsense reason for my ban "Reason given for ban: User is unable to take part in reasonable, constructive dialogue." I haven't entered into any "dialogue" with them, I've just posted a link to the earlier version of this text in a separate thread at forums.wesnoth.org and closed the browser tab. The next time I returned to check if they had anything to say in their defense, I found myself banned and the thread with the link deleted. Guess these communists actually have something to hide.
 
-MegaGlest developers were really dismissive, replying to me "not worth discussing. go fish elsewhere". WarZone 2010 developers claimed that it is Sound Ideas, who actually stolen their sound and not the other way around, replying "I think your story is lame NikitaSadkov check your facts and bring evidence that the sound you claim was made before 1999".
+OpenGameArt community banned me outright for creating a collection, listing art with license issues. MegaGlest developers were really dismissive, replying to me "not worth discussing. go fish elsewhere". WarZone 2010 developers claimed that it is Sound Ideas, who actually stolen their sound and not the other way around, replying "I think your story is lame NikitaSadkov check your facts and bring evidence that the sound you claim was made before 1999".
 
 Here is a proof of Linux people harrasing and reporting me:
 - https://www.reddit.com/r/linux_gaming/comments/7zew3n/how_linux_community_steals_proprietary_assets/dunis9w/?context=3
@@ -15,6 +15,11 @@ Here is a proof of Linux people harrasing and reporting me:
 That is how these free speech hating communists censor dissent opinion, using phony reasons. Communism never changes.
 
 Here are a few quotes of typical open source advocates, regarding art theft:
+
+    This is foolish; these do not have licensing issues. Can you please delete your account?
+      -- Dismissive opinion of OGA's moderator, about them hosting stolen art
+         such as Universal's Frankenstein and Warwind characters.
+         https://opengameart.org/content/art-with-licensing-issues
 
     if you make such statements, you will have properly document your claims. so far you
     have only made a claim that a sound file we distribute with Megaglest sounds similar
@@ -111,6 +116,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
   - https://opengameart.org/content/cute-cat-spritesheet (stolen from https://www.123rf.com/photo_13708512_illustration-of-cute-cat-wearing-a-red-collar-with-gold-tag.html)
   - https://opengameart.org/content/cute-dog-spritesheet (stolen from https://www.123rf.com/photo_8661585_cute-puppy.html or https://www.dreamstime.com/stock-images-cute-dog-image17899304)
   - http://opengameart.org/content/game-art-from-ant-grab (no idea where stone texture came from but, salt flats texture was stolen from http://www.gettyimages.com/detail/photo/mud-cracks-on-salt-pan-northern-cape-high-res-stock-photography/475156577)
+  - http://opengameart.org/content/some-aliens-reillustrated-from-old-game - characters from WarWind game. Author claims he made them from scratch, but they are still based of a very stylized characters. It is like drawing Spiderman or Mickey Mouse - okay as a personal fanart, but nothing more.
   - http://opengameart.org/content/fbi-chic (Dana Scully character from X-Files)
   - http://opengameart.org/content/balloons-and-balls without credit uses crown icon http://www.allvectors.com/crown-vector/ which is Creative Commons Attribution, so cant be used as public domain. Then we find that allvectors.com steals vectors from commercial sources: http://www.microstockgroup.com/image-sleuth/allvectors-com-free-(stolen)-vectors-for-download!/ so this crown vector is not free at all.
   - https://opengameart.org/content/sea-and-underwater-assets - author, bellow, says "It has everything what you see at the video  (not sounds)", yet archive that author uploaded does include sounds under ggj.gameproj/sounds. It is doubtful author produced them himself, because they include a lot of field recordings and sound design know-how, so they probably came from some archive, which disallows such sharing.
@@ -118,8 +124,13 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
   - http://opengameart.org/content/zombie-spider-and-monster - sounds from from DungeonHack, which has licensing issues, see below
   - http://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt - sounds from from DungeonHack, which has licensing issues, see below
 
-- Other content at OpenGameArt.org has potential license issues. For example, CC-BY sfx foom_0.wav ( https://opengameart.org/content/spell-4-fire ) was later re-uploaded by another user, who relicensed it under public domain, as part of larger collection of dubious origin ( https://opengameart.org/content/huge-collection-of-retro-sound-effects-from-my-various-projects )
-
+- Other content at OpenGameArt.org has potential license issues. For example
+  - https://opengameart.org/content/theo-the-teddy - a character that is clearly based of Sonic The Hedgehog sprite.
+  - https://opengameart.org/content/avatar-pack-by-bullseye - Frankenstein character, owned by Universal, which is known to sue people for using it: "According to a recent report from a book publisher, Universal is currently clamping down on any monster that has all of the following elements: Green Skin, Flat Top Head, Scar on Forehead, Bolts on the Neck, Protruding Forehead."
+  - CC-BY sfx foom_0.wav ( https://opengameart.org/content/spell-4-fire ) was later re-uploaded by another user, who relicensed it under public domain, as part of larger collection of dubious origin ( https://opengameart.org/content/huge-collection-of-retro-sound-effects-from-my-various-projects )
+  - https://opengameart.org/content/skweaks - relicenses under public domain CC-BY sounds from freesound.org
+  - https://opengameart.org/content/woman-nurse-character uses art from scalablegfx.com, without crediting original author, mauriku.
+  - https://opengameart.org/content/2d-small-platformer-character author say "only for non-commercia", yet he picked CC-BY 3.0 license, that allows commercial use.
 
 - Similar story with freesound.org. For example:
   - https://freesound.org/people/Nicistarful/sounds/344224/ - stolen from Sound Ideas Series 6000 General - CD39, track 24, "space. door space ship door 1". Actually, well known Doom and Descent door sounds also come from that CD, track 26.
