@@ -117,7 +117,7 @@ Open source developers rarely check the source of the assets. For example:
 Of course not every flashkit.com sound is stolen, some are obviously produced by its users, due to their amateur recording and cheesy voice acting, but if you see there some awesome high qualtiy sound with some effort put into it, then it is most likely stolen.
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art illegally re-licensed from non-free licenses.
-  - https://opengameart.org/content/endless-midnight-zombie-swarm-assets XBox 360 controller stock art image, that obviously wasn't created by the author, tgfcoder. It can be found all around Internet with dates years before tgfcoder coder's upload: http://www.plansandprojects.com/My%20Machines/Xbox360_CNCcontroller/
+  - https://opengameart.org/content/endless-midnight-zombie-swarm-assets XBox 360 controller stock art image, that obviously wasn't created by the author, tgfcoder, whose art is a way below it. That stock art can be found all around Internet with dates years before tgfcoder coder's upload: http://www.plansandprojects.com/My%20Machines/Xbox360_CNCcontroller/
   - https://opengameart.org/content/sound-effects-from-monster-rpg-2 - steals sound from Sound Ideas 6000 Series; for example cartoon_fall.ogg can be found on CD10, track 83, "comedy. accent slide whistle down". Other user, "undesired", warned them, but they keep stealing. Same goes for Monster RPG2, from which these sounds were taken. AFAIK, that user "undesired" got banned for "trolling" due to reporting issues such as this one. Undesired even describes himself as "A "troll" who makes a "pointless" arena FPS game while pointing out copyright encumberances no one wants to believe" - that is how open source community treats people, by insulting them and their work.
   - https://opengameart.org/content/space-background-5 released under public domain stolen picture of Andromeda Galaxy from https://apod.nasa.gov/apod/ap991114.html which is "Credit & Copyright: Jason Ware". Jason's images are not free, he sells them for money: http://www.galaxyphoto.com/jw_andromeda_12.htm
   - http://opengameart.org/content/heavy-terror-machine-assets - mostly stolen assets from Sound Ideas, for example heli.wav is actually track 35 from CD19 of Sound Ideas General Series 6000 library, "helicopter twin huey - exterior - hovering".
@@ -142,6 +142,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
   - https://opengameart.org/content/skweaks - relicenses under public domain CC-BY sounds from freesound.org
   - https://opengameart.org/content/woman-nurse-character uses art from scalablegfx.com, without crediting original author, mauriku.
   - https://opengameart.org/content/2d-small-platformer-character author say "only for non-commercia", yet he picked CC-BY 3.0 license, that allows commercial use.
+  - https://opengameart.org/content/looney-tunes-style-intro-guitar-slide-up - a guitar chord from Looney Tunes, which is owned by Warner Bros.
 
 - Similar story with freesound.org. For example:
   - https://freesound.org/people/Nicistarful/sounds/344224/ - stolen from Sound Ideas Series 6000 General - CD39, track 24, "space. door space ship door 1". Actually, well known Doom and Descent door sounds also come from that CD, track 26.
