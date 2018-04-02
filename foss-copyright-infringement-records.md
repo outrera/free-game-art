@@ -31,6 +31,11 @@ Here are a few quotes of typical open source advocates, regarding art theft:
          such as Universal's Frankenstein and Warwind characters.
          https://opengameart.org/content/art-with-licensing-issues
 
+    what the hell is up with your persecution of everyone and anyone to begin with?
+    You're not a mod at all, in fact, you've barely been around.
+      -- A response of his angry friend.
+         https://opengameart.org/content/theo-the-teddy
+
     if you make such statements, you will have properly document your claims. so far you
     have only made a claim that a sound file we distribute with Megaglest sounds similar
     to a sound file you found posted on some website, tagged with the name of an old
@@ -99,12 +104,12 @@ That is the "warm welcome" a newbie, like me, gets from Linux community, when he
 And Linux community doesn't limit itself to stealing just sprites and sounds - they also steal source code, by illegally copying snippets from decompiler into their GPLv3 licensed projects. Take OpenXcom development forum for example:
 http://openapoc.org/threads/apoc-reversing.124/page-2
 
-> functions of time of day changing
-> __usercall change_pal@<eax>(int scall@<ecx>, signed __int16 interval@<si>
-> goto LABEL_13
-> word_E3594
-> __outbyte
-> HIBYTE(v5) = HIBYTE(word_E3594);
+    functions of time of day changing
+    __usercall change_pal@<eax>(int scall@<ecx>, signed __int16 interval@<si>
+    goto LABEL_13
+    word_E3594
+    __outbyte
+    HIBYTE(v5) = HIBYTE(word_E3594);
 
 Totally not IDA Pro at all! That is how they develop open source software: pass Photoshop through disassembler, recompile and you get GIMP.
 
@@ -114,7 +119,7 @@ Open source developers rarely check the source of the assets. For example:
 - Several open source games (like ZeroK-RTS) appear to be using sounds from http://free-loops.com/pd-loops-1.html which is  full of illegal content, like the sounds taken from Sound Ideas (http://free-loops.com/2975-9mm-shotgun.html), Godzilla movies (http://free-loops.com/3006-godzilla.html) or Warcraft 2 (http://free-loops.com/3010-horse.html http://free-loops.com/3009-hello.html).
 - Flashkit.com would be another example of "free" sounds from dubious origins, which open source developers so love to use. For example, flashkit.com has sound stolen from Diablo 2 (actually Blizzard logo itself!), which uploader claims to have produced himself "I made it myself ... I made something decient for once" (http://www.flashkit.com/soundfx/Nature/Storm/Blizzard-Snow_Tem-8510/index.php ), and using it unknowingly could obviously lead you if not sued, then your video pulled out of youtube (due to content-id), or game from distribution.
 
-Of course not every flashkit.com sound is stolen, some are obviously produced by its users, due to their amateur recording and cheesy voice acting, but if you see there some awesome high qualtiy sound with some effort put into it, then it is most likely stolen.
+Of course not every flashkit.com sound is stolen, some are obviously produced by its users, due to their amateur recording and cheesy voice acting, but if you see there some awesome high quality sound with some effort put into it, then it is most likely stolen.
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art illegally re-licensed from non-free licenses.
   - https://opengameart.org/content/x-star-fighter - stolen X-Wing ship from Star Wars.
