@@ -123,6 +123,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art illegally re-licensed from non-free licenses.
   - https://opengameart.org/content/x-star-fighter - stolen X-Wing ship from Star Wars.
+  - https://opengameart.org/content/lord-of-the-rings-transparent-inscription-one-ring-to-rule-them-all - Lord Of The Rings Transparent Inscription "One Ring to Rule Them All". Tolkien's works are not public domain.
   - https://opengameart.org/content/hero-dude - stolen character by Sami Eklund from indiumgames.fi (https://blog.indiumgames.fi/2014/07/04/pixel-art-photoshop/ and https://blog.indiumgames.fi/2014/07/17/2d-sprite-character-animation-with-sprites/ )
   - https://opengameart.org/content/endless-midnight-zombie-swarm-assets XBox 360 controller stock art image, that obviously wasn't created by the author, tgfcoder, whose art is a way below it. That stock art can be found all around Internet with dates years before tgfcoder coder's upload: http://www.plansandprojects.com/My%20Machines/Xbox360_CNCcontroller/
   - https://opengameart.org/content/alien-armored-character-sprite - the alien character out of the movie Predator.
@@ -149,7 +150,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
   - CC-BY sfx foom_0.wav ( https://opengameart.org/content/spell-4-fire ) was later re-uploaded by another user, who relicensed it under public domain, as part of larger collection of dubious origin ( https://opengameart.org/content/huge-collection-of-retro-sound-effects-from-my-various-projects )
   - https://opengameart.org/content/skweaks - relicenses under public domain CC-BY sounds from freesound.org
   - https://opengameart.org/content/woman-nurse-character uses art from scalablegfx.com, without crediting original author, mauriku.
-  - https://opengameart.org/content/2d-small-platformer-character author say "only for non-commercia", yet he picked CC-BY 3.0 license, that allows commercial use.
+  - https://opengameart.org/content/2d-small-platformer-character author say "only for non-commercial", yet he picked CC-BY 3.0 license, that allows commercial use.
   - https://opengameart.org/content/looney-tunes-style-intro-guitar-slide-up - a guitar chord from Looney Tunes, which is owned by Warner Bros.
 
 - Similar story with freesound.org. For example:
