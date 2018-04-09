@@ -26,6 +26,19 @@ That is how these free speech hating communists censor dissent opinion, using ph
 
 Here are a few quotes of typical open source advocates, regarding art theft:
 
+
+    I don't care about copyright in general. I think it's a really backwards system
+    that hinders innovation. Next time you ask a question I'll be a little less upfront
+    about my answers because I don't want to get punished again. People are so uptight...
+    No wonder there's so few resources available to the community, nobody shares and
+    everybody is like "mine mine mine!!111!!!" If a copyright was written in a vague
+    fashion then it means I can interpret it in a vague fashion as well. It's kind of
+    funny when people release everything online, and then are like "no you can't use
+    this!" It's ridiculous. 
+    -- OGA user, section31, demonstrates typical Linux attitude towards copyright
+    https://opengameart.org/content/galacti-chrons-civilian-character-pack-mv-non-chibi
+
+
     This is foolish; these do not have licensing issues. Can you please delete your account?
       -- Dismissive opinion of OGA's moderator, about them hosting stolen art
          such as Universal's Frankenstein and Warwind characters.
@@ -118,6 +131,7 @@ And still I have collected a few facts of illegal appropriation of intellectual 
 Open source developers rarely check the source of the assets. For example:
 - Several open source games (like ZeroK-RTS) appear to be using sounds from http://free-loops.com/pd-loops-1.html which is  full of illegal content, like the sounds taken from Sound Ideas (http://free-loops.com/2975-9mm-shotgun.html), Godzilla movies (http://free-loops.com/3006-godzilla.html) or Warcraft 2 (http://free-loops.com/3010-horse.html http://free-loops.com/3009-hello.html).
 - Flashkit.com would be another example of "free" sounds from dubious origins, which open source developers so love to use. For example, flashkit.com has sound stolen from Diablo 2 (actually Blizzard logo itself!), which uploader claims to have produced himself "I made it myself ... I made something decient for once" (http://www.flashkit.com/soundfx/Nature/Storm/Blizzard-Snow_Tem-8510/index.php ), and using it unknowingly could obviously lead you if not sued, then your video pulled out of youtube (due to content-id), or game from distribution.
+- pixabay.com includes a lot of "public domain" 3d renders, based of models from Poser and sites like renderosity.com, whose licenses explicitly forbid such distribution: "The Buyer shall not copy, modify, reverse compile, convert, reverse engineer, sell, sublicense, rent, or distribute Product, use Product for topology, create competing digital Products from Product, give (transfer) Product to anyone, or use Product in real-time rendering games (where the Product files are distributed), or make resources of the Product."
 
 Of course not every flashkit.com sound is stolen, some are obviously produced by its users, due to their amateur recording and cheesy voice acting, but if you see there some awesome high quality sound with some effort put into it, then it is most likely stolen.
 
