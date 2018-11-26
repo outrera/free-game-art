@@ -57,7 +57,7 @@ But wait! That doesn't end here, with OpenGameArt.org hosting stolen content, be
 Furthermore, OpenGameArt bans people and deletes questions (https://opengameart.org/forumtopic/unicode-characters-in-attribution-field) asking about unicode characters in attribution field and non-english languages names in general. For example, if you want to use say https://opengameart.org/content/fantasy-button
 You have to credit its author, whose name is "ドリームキャスト", which leads to several problems:
 1. You don't know what that means, maybe it is some insult and by including it in your game's credits it will get you banned, after some Chinese person reports its.
-2. You most likely don't have unicode support your my game engine or a font to properly display that text. It would be too much to ask from an indie developer to implement proper i18n support.
+2. You most likely don't have unicode support in your game engine or a font to properly display that text. It would be too much to ask from an indie developer to implement proper i18n support.
 3. International community is a wrong place for showing your nationalism and knowledge of obscure languages, unless you're trolling. Otherwise everyone starts writing in their native (or favorite) languages out of stubbornness. And no google translate will help.
 
 Same for filenames, like in https://opengameart.org/content/old-music Can OGA guarantee that these Russian track names are not insulting to anyone? One can perfectly imagine Russian patriots uploading tracks like "Ukraine is Russian Soil.mp3" and turning the site into a propaganda device.
