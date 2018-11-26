@@ -136,6 +136,7 @@ Open source developers rarely check the source of the assets. For example:
 Of course not every flashkit.com sound is stolen, some are obviously produced by its users, due to their amateur recording and cheesy voice acting, but if you see there some awesome high quality sound with some effort put into it, then it is most likely stolen.
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art illegally re-licensed from non-free licenses.
+  - https://opengameart.org/content/rpg-game-ui includes 3 items from Diablo 1, https://www.spriters-resource.com/pc_computer/diablodiablohellfire/sheet/59437/
   - https://opengameart.org/content/map-pergaments takes paper texture from https://www.ppt-backgrounds.net/old-paper-19-360691-high-definitions---design-downloads-images-800x600.html which has unclear license and was likely stolen from a commercial clipart CD.
   - https://opengameart.org/content/x-star-fighter - stolen X-Wing ship from Star Wars.
   - https://opengameart.org/content/lord-of-the-rings-transparent-inscription-one-ring-to-rule-them-all - Lord Of The Rings Transparent Inscription "One Ring to Rule Them All". Tolkien's works are not public domain.
