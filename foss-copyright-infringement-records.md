@@ -137,6 +137,14 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art illegally re-licensed from non-free licenses.
   - https://opengameart.org/content/rpg-game-ui includes 3 items from Diablo 1, https://www.spriters-resource.com/pc_computer/diablodiablohellfire/sheet/59437/
+  - https://opengameart.org/content/gothicvania-cemetery-pack
+    https://opengameart.org/content/gothicvania-town
+    And other uploads by ansimuz steal fonts from somepx, who doesn't allow distributing them in modified or unmodified forms https://somepx.itch.io/humble-fonts-free
+    http://www.palmentieri.it/somepx/license.txt
+    "You CAN use these assets in your own free or paid projects.    
+    You CAN modify these assets for use in your own projects.
+    You CANNOT distribute or resell these assets by themselves.
+    You CANNOT sell a modified version of these assets by themselves."
   - https://opengameart.org/content/map-pergaments takes paper texture from https://www.ppt-backgrounds.net/old-paper-19-360691-high-definitions---design-downloads-images-800x600.html which has unclear license and was likely stolen from a commercial clipart CD.
   - https://opengameart.org/content/x-star-fighter - stolen X-Wing ship from Star Wars.
   - https://opengameart.org/content/lord-of-the-rings-transparent-inscription-one-ring-to-rule-them-all - Lord Of The Rings Transparent Inscription "One Ring to Rule Them All". Tolkien's works are not public domain.
