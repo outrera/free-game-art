@@ -145,6 +145,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
     You CAN modify these assets for use in your own projects.
     You CANNOT distribute or resell these assets by themselves.
     You CANNOT sell a modified version of these assets by themselves."
+    I asked Somepx about that, he replied "it's ok as long as he doesn't resell / redestribute the font by itself. Also, for this specific case, he's using an old font of mine that I'm not even selling anymore, so it's not a big deal."
   - https://opengameart.org/content/map-pergaments takes paper texture from https://www.ppt-backgrounds.net/old-paper-19-360691-high-definitions---design-downloads-images-800x600.html which has unclear license and was likely stolen from a commercial clipart CD.
   - https://opengameart.org/content/x-star-fighter - stolen X-Wing ship from Star Wars.
   - https://opengameart.org/content/lord-of-the-rings-transparent-inscription-one-ring-to-rule-them-all - Lord Of The Rings Transparent Inscription "One Ring to Rule Them All". Tolkien's works are not public domain.
