@@ -146,7 +146,7 @@ Of course not every flashkit.com sound is stolen, some are obviously produced by
     World of Warcraft cursor and edits of it.
   - https://opengameart.org/content/hyena
     Paint over a copyrighted photo http://www.istockphoto.com/stock-photo-14024734-hyena-showing-tongue.php
-    Author responds angrily, intentionally putting comas into wrong places: "the hyena may have rights to this photo, I don't care if you'll remove this draw ,this showing the limits of free licenses. The open source wolrd seem to be an utopy for me. I could argumenting so long but I won't. Time is precious , contributions are precious I don't care about formated minds who dig there grave."
+    Author responds angrily, for some reason putting comas into wrong places: "the hyena may have rights to this photo, I don't care if you'll remove this draw ,this showing the limits of free licenses. The open source wolrd seem to be an utopy for me. I could argumenting so long but I won't. Time is precious , contributions are precious I don't care about formated minds who dig there grave."
   - https://opengameart.org/content/insectoid-aliens
     Obviously Tyranid characters from Warhammer40k.
   - https://opengameart.org/content/nutpea-pixel-sprites
