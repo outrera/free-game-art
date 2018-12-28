@@ -136,6 +136,23 @@ Open source developers rarely check the source of the assets. For example:
 Of course not every flashkit.com sound is stolen, some are obviously produced by its users, due to their amateur recording and cheesy voice acting, but if you see there some awesome high quality sound with some effort put into it, then it is most likely stolen.
 
 - opengameart.org hosts a lot of non-free content. There are assets clearly derived or stolen from non-free shows, as well as art illegally re-licensed from non-free licenses.
+  - https://opengameart.org/content/tileset-for-tile2map-with-tsx
+    Relicensed into Public Domain various non PD tilesets, such Sylveira's CC-BY-SA tileset from  silveiraneto.net/2011/08/20/
+  - https://opengameart.org/content/bug-animation
+    Bug from Startship Troopers movie.
+  - https://opengameart.org/content/animated-san-holo
+    Han Solo, a character from Star Wars
+  - https://opengameart.org/content/knights-glove-mouse-cursor-0
+    World of Warcraft cursor and edits of it.
+  - https://opengameart.org/content/hyena
+    Paint over a copyrighted photo http://www.istockphoto.com/stock-photo-14024734-hyena-showing-tongue.php
+    Author responds angrily, intentionally putting comas into wrong places: "the hyena may have rights to this photo, I don't care if you'll remove this draw ,this showing the limits of free licenses. The open source wolrd seem to be an utopy for me. I could argumenting so long but I won't. Time is precious , contributions are precious I don't care about formated minds who dig there grave."
+  - https://opengameart.org/content/insectoid-aliens
+    Obviously Tyranid characters from Warhammer40k.
+  - https://opengameart.org/content/nutpea-pixel-sprites
+    Plants-vs-Zombies Peanut character.
+  - https://opengameart.org/content/dungeon-isometric-tiles
+    Preview maps taken from Dungeon Keeper. Electronics Arts intellectual property.
   - https://opengameart.org/content/rpg-game-ui includes 3 items from Diablo 1, https://www.spriters-resource.com/pc_computer/diablodiablohellfire/sheet/59437/
   - https://opengameart.org/content/gothicvania-cemetery-pack
     https://opengameart.org/content/gothicvania-town
